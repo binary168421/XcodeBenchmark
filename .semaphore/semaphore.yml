@@ -14,3 +14,4 @@ blocks:
         - name: Run Benchmark Script
           commands:
             - pwd
+            - ls -la
